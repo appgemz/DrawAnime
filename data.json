@@ -17,6 +17,18 @@
       "category": "Anime",
       "label": "Demon Slayer",
       "total": 7
+    },
+
+
+    {
+      "category": "Lessons",
+      "label": "Young Artist",
+      "total": 15
+    },
+    {
+      "category": "Lessons",
+      "label": "Curious Boy",
+      "total": 13
     }
   ]
 }
