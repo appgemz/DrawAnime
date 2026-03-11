@@ -1,17 +1,18 @@
 {
   "dataVersion": 1,
   "images": [
-  
-  {
+
+    {
       "category": "Anime",
       "label": "Attack on Titan",
       "total": 15
-},
+    },
 
-{
+    {
       "category": "Anime",
       "label": "Death Note",
       "total": 15
     }
+    
+  ]
 }
-
