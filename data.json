@@ -23,7 +23,8 @@
     {
       "category": "Lessons",
       "label": "Young Artist",
-      "total": 15
+      "total": 15,
+      "premium": true
     },
     {
       "category": "Lessons",
