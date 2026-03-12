@@ -19,7 +19,11 @@
       "total": 7
     },
 
-
+    {
+      "category": "Lessons",
+      "label": "Ryomen Sukuna",
+      "total": 15
+    },
     {
       "category": "Lessons",
       "label": "Young Artist",
@@ -29,6 +33,31 @@
     {
       "category": "Lessons",
       "label": "Curious Boy",
+      "total": 13
+    },
+    {
+      "category": "Lessons",
+      "label": "Cat",
+      "total": 10
+    },
+    {
+      "category": "Lessons",
+      "label": "Dog",
+      "total": 10
+    },
+    {
+      "category": "Lessons",
+      "label": "Doreamon",
+      "total": 14
+    },
+    {
+      "category": "Lessons",
+      "label": "Duck",
+      "total": 12
+    },
+    {
+      "category": "Lessons",
+      "label": "Loopy",
       "total": 13
     }
   ]
