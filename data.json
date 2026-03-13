@@ -18,11 +18,77 @@
       "label": "Demon Slayer",
       "total": 7
     },
+    {
+      "category": "Anime",
+      "label": "Detective Conan",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "Doraemon",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "Jujutsukaisen",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "Loopy",
+      "total": 6
+    },
+    {
+      "category": "Anime",
+      "label": "My Hero Academia",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 17
+    },
+    {
+      "category": "Anime",
+      "label": "One Piece",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "OshiNoKo",
+      "total": 6
+    },
+    {
+      "category": "Anime",
+      "label": "Pokemon",
+      "total": 17
+    },
+    {
+      "category": "Anime",
+      "label": "Sailor Moon",
+      "total": 15
+    },
+    {
+      "category": "Anime",
+      "label": "Spy x Family",
+      "total": 15
+    },
 
     {
       "category": "Lessons",
       "label": "Ryomen Sukuna",
       "total": 15
+    },
+    {
+      "category": "Lessons",
+      "label": "Bat",
+      "total": 10,
+      "premium": true
     },
     {
       "category": "Lessons",
@@ -59,6 +125,382 @@
       "category": "Lessons",
       "label": "Loopy",
       "total": 13
+    },
+
+
+
+    {
+      "category": "Anatomy",
+      "label": "Ears",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Eyes",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Face",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Foot",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Hand",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Lips",
+      "total": 2
+    },
+    {
+      "category": "Anatomy",
+      "label": "Nose",
+      "total": 2
+    },
+
+
+
+    {
+      "category": "Animals",
+      "label": "Butterfly",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Camel",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Cat",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Deer",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Dog",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Elephant",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Fish",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Horse",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Lion",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Monkey",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Parrot",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Sheep",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Spider",
+      "total": 3
+    },
+    {
+      "category": "Animals",
+      "label": "Tiger",
+      "total": 3
+    },
+
+
+
+    {
+      "category": "Birds",
+      "label": "Baby Owl",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Chick",
+      "total": 2
+    },
+    {
+      "category": "Birds",
+      "label": "Duck",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Eagle",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Kid Bat",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Parrot",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Peacock",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Penguin",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Sparrow",
+      "total": 2
+    },
+
+
+
+
+    {
+      "category": "Festival",
+      "label": "Birthday",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Christmas",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Diwali",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Eid",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Halloween",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Holi",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Ramadan",
+      "total": 3
+    },
+    {
+      "category": "Festival",
+      "label": "Valentine’s Day",
+      "total": 4
+    },
+
+
+
+
+    {
+      "category": "Kids",
+      "label": "Alphabets",
+      "total": 2
+    },
+    {
+      "category": "Kids",
+      "label": "Fruits",
+      "total": 2
+    },
+    {
+      "category": "Kids",
+      "label": "Home",
+      "total": 2
+    },
+    {
+      "category": "Kids",
+      "label": "Toys",
+      "total": 2
+    },
+
+
+
+
+    {
+      "category": "Mandala",
+      "label": "Advanced Mandala",
+      "total": 2
+    },
+    {
+      "category": "Mandala",
+      "label": "Decorative Borders",
+      "total": 2
+    },
+    {
+      "category": "Mandala",
+      "label": "Geometric Patterns",
+      "total": 2
+    },
+    {
+      "category": "Mandala",
+      "label": "Simple Mandala",
+      "total": 2
+    },
+    {
+      "category": "Mandala",
+      "label": "Tattoo Style",
+      "total": 2
+    },
+
+
+
+
+    {
+      "category": "Nature",
+      "label": "Desert",
+      "total": 3
+    },
+    {
+      "category": "Nature",
+      "label": "Flowers",
+      "total": 3
+    },
+    {
+      "category": "Nature",
+      "label": "Mountains",
+      "total": 3
+    },
+    {
+      "category": "Nature",
+      "label": "Sun",
+      "total": 3
+    },
+    {
+      "category": "Nature",
+      "label": "Tree",
+      "total": 3
+    },
+    {
+      "category": "Nature",
+      "label": "Waterfall",
+      "total": 3
+    },
+    {
+      "category": "Nature",
+      "label": "Weather",
+      "total": 3
+    },
+
+
+
+
+    {
+      "category": "People",
+      "label": "Boys",
+      "total": 3
+    },
+    {
+      "category": "People",
+      "label": "Celebrities",
+      "total": 3
+    },
+    {
+      "category": "People",
+      "label": "Girls",
+      "total": 3
+    },
+
+
+
+
+    {
+      "category": "TextArt",
+      "label": "Graffiti",
+      "total": 2
+    },
+    {
+      "category": "TextArt",
+      "label": "Love Text",
+      "total": 2
+    },
+    {
+      "category": "TextArt",
+      "label": "Motivational",
+      "total": 2
+    },
+    {
+      "category": "TextArt",
+      "label": "Name Art",
+      "total": 2
+    },
+
+
+
+
+    {
+      "category": "Vehicles",
+      "label": "Bike",
+      "total": 2
+    },
+    {
+      "category": "Vehicles",
+      "label": "Car",
+      "total": 2
+    },
+    {
+      "category": "Vehicles",
+      "label": "Helicopter",
+      "total": 2
+    },
+    {
+      "category": "Vehicles",
+      "label": "Plane",
+      "total": 2
+    },
+    {
+      "category": "Vehicles",
+      "label": "Ship",
+      "total": 2
+    },
+    {
+      "category": "Vehicles",
+      "label": "Truck",
+      "total": 2
     }
+
+
+
+
   ]
 }
