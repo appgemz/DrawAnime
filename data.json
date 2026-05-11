@@ -10,6 +10,42 @@
     },
     {
       "category": "Lessons",
+      "label": "Goku",
+      "total": 11,
+      "premium": true
+    },
+    {
+      "category": "Lessons",
+      "label": "Tanjiro Kamado",
+      "total": 14,
+      "premium": true
+    },
+    {
+      "category": "Lessons",
+      "label": "Satoru Gojo",
+      "total": 10,
+      "premium": true
+    },
+    {
+      "category": "Lessons",
+      "label": "Flower",
+      "total": 7,
+      "premium": true
+    },
+    {
+      "category": "Lessons",
+      "label": "Butterfly",
+      "total": 7,
+      "premium": true
+    },
+    {
+      "category": "Lessons",
+      "label": "Minami Kotobuki",
+      "total": 11,
+      "premium": true
+    },
+    {
+      "category": "Lessons",
       "label": "Bat",
       "total": 10,
       "premium": true
@@ -20,12 +56,7 @@
       "total": 15,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Curious Boy",
-      "total": 13,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "Cat",
@@ -62,36 +93,21 @@
       "total": 9,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Butterfly",
-      "total": 7,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "Charizard",
       "total": 12,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Flower",
-      "total": 7,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "Fruits",
       "total": 11,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Goku",
-      "total": 11,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "House",
@@ -110,12 +126,7 @@
       "total": 5,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Minami Kotobuki",
-      "total": 11,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "Monkey",
@@ -140,24 +151,14 @@
       "total": 13,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Satoru Gojo",
-      "total": 10,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "Spider",
       "total": 8,
       "premium": true
     },
-    {
-      "category": "Lessons",
-      "label": "Tanjiro Kamado",
-      "total": 14,
-      "premium": true
-    },
+
     {
       "category": "Lessons",
       "label": "Tiger",
@@ -176,91 +177,95 @@
       "total": 7,
       "premium": true
     },
-
-
-
     {
-      "category": "Anime",
-      "label": "Attack on Titan",
-      "total": 15
-    },
-
-    {
-      "category": "Anime",
-      "label": "Death Note",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Demon Slayer",
-      "total": 7
-    },
-    {
-      "category": "Anime",
-      "label": "Detective Conan",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Doraemon",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Dragon Ball",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Jujutsukaisen",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Loopy",
-      "total": 6
-    },
-    {
-      "category": "Anime",
-      "label": "My Hero Academia",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Naruto",
-      "total": 17
-    },
-    {
-      "category": "Anime",
-      "label": "One Piece",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "OshiNoKo",
-      "total": 6
-    },
-    {
-      "category": "Anime",
-      "label": "Pokemon",
-      "total": 17
-    },
-    {
-      "category": "Anime",
-      "label": "Sailor Moon",
-      "total": 15
-    },
-    {
-      "category": "Anime",
-      "label": "Spy x Family",
-      "total": 15
+      "category": "Lessons",
+      "label": "Curious Boy",
+      "total": 13,
+      "premium": true
     },
 
 
 
-    {
+  {
+    "category": "Anime",
+    "label": "Naruto",
+    "total": 17
+  },
+  {
+    "category": "Anime",
+    "label": "Pokemon",
+    "total": 17
+  },
+  {
+    "category": "Anime",
+    "label": "Attack on Titan",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Death Note",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Detective Conan",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Doraemon",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Dragon Ball",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Jujutsukaisen",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "My Hero Academia",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "One Piece",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Sailor Moon",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Spy x Family",
+    "total": 15
+  },
+  {
+    "category": "Anime",
+    "label": "Demon Slayer",
+    "total": 7
+  },
+  {
+    "category": "Anime",
+    "label": "Loopy",
+    "total": 6
+  },
+  {
+    "category": "Anime",
+    "label": "OshiNoKo",
+    "total": 6
+  },
+
+
+   {
       "category": "Anatomy",
-      "label": "Ears",
+      "label": "Lips",
       "total": 2
     },
     {
@@ -268,14 +273,21 @@
       "label": "Eyes",
       "total": 2
     },
+  
     {
       "category": "Anatomy",
-      "label": "Face",
+      "label": "Nose",
       "total": 2
     },
     {
       "category": "Anatomy",
-      "label": "Foot",
+      "label": "Ears",
+      "total": 2
+    },
+
+    {
+      "category": "Anatomy",
+      "label": "Face",
       "total": 2
     },
     {
@@ -285,17 +297,23 @@
     },
     {
       "category": "Anatomy",
-      "label": "Lips",
+      "label": "Foot",
       "total": 2
+    },
+
+
+
+ 
+    {
+      "category": "Animals",
+      "label": "Dog",
+      "total": 3
     },
     {
-      "category": "Anatomy",
-      "label": "Nose",
-      "total": 2
+      "category": "Animals",
+      "label": "Cat",
+      "total": 3
     },
-
-
-
     {
       "category": "Animals",
       "label": "Butterfly",
@@ -306,21 +324,13 @@
       "label": "Camel",
       "total": 3
     },
-    {
-      "category": "Animals",
-      "label": "Cat",
-      "total": 3
-    },
+
     {
       "category": "Animals",
       "label": "Deer",
       "total": 3
     },
-    {
-      "category": "Animals",
-      "label": "Dog",
-      "total": 3
-    },
+  
     {
       "category": "Animals",
       "label": "Elephant",
@@ -368,10 +378,14 @@
     },
 
 
-
     {
       "category": "Birds",
-      "label": "Baby Owl",
+      "label": "Peacock",
+      "total": 3
+    },
+    {
+      "category": "Birds",
+      "label": "Parrot",
       "total": 3
     },
     {
@@ -394,16 +408,8 @@
       "label": "Kid Bat",
       "total": 3
     },
-    {
-      "category": "Birds",
-      "label": "Parrot",
-      "total": 3
-    },
-    {
-      "category": "Birds",
-      "label": "Peacock",
-      "total": 3
-    },
+   
+ 
     {
       "category": "Birds",
       "label": "Penguin",
@@ -414,7 +420,11 @@
       "label": "Sparrow",
       "total": 2
     },
-
+    {
+      "category": "Birds",
+      "label": "Baby Owl",
+      "total": 3
+    },
 
 
 
@@ -464,6 +474,11 @@
 
     {
       "category": "Kids",
+      "label": "Home",
+      "total": 2
+    },
+    {
+      "category": "Kids",
       "label": "Alphabets",
       "total": 2
     },
@@ -472,11 +487,7 @@
       "label": "Fruits",
       "total": 2
     },
-    {
-      "category": "Kids",
-      "label": "Home",
-      "total": 2
-    },
+   
     {
       "category": "Kids",
       "label": "Toys",
@@ -485,6 +496,11 @@
 
 
 
+    {
+      "category": "Mandala",
+      "label": "Simple Mandala",
+      "total": 2
+    },
 
     {
       "category": "Mandala",
@@ -501,11 +517,7 @@
       "label": "Geometric Patterns",
       "total": 2
     },
-    {
-      "category": "Mandala",
-      "label": "Simple Mandala",
-      "total": 2
-    },
+    
     {
       "category": "Mandala",
       "label": "Tattoo Style",
@@ -514,20 +526,9 @@
 
 
 
-
     {
       "category": "Nature",
-      "label": "Desert",
-      "total": 3
-    },
-    {
-      "category": "Nature",
-      "label": "Flowers",
-      "total": 3
-    },
-    {
-      "category": "Nature",
-      "label": "Mountains",
+      "label": "Weather",
       "total": 3
     },
     {
@@ -535,6 +536,19 @@
       "label": "Sun",
       "total": 3
     },
+
+    {
+      "category": "Nature",
+      "label": "Desert",
+      "total": 3
+    },
+ 
+    {
+      "category": "Nature",
+      "label": "Mountains",
+      "total": 3
+    },
+ 
     {
       "category": "Nature",
       "label": "Tree",
@@ -545,25 +559,27 @@
       "label": "Waterfall",
       "total": 3
     },
-    {
+   {
       "category": "Nature",
-      "label": "Weather",
+      "label": "Flowers",
       "total": 3
     },
+  
 
 
 
+    {
+      "category": "People",
+      "label": "Celebrities",
+      "total": 3
+    },
 
     {
       "category": "People",
       "label": "Boys",
       "total": 3
     },
-    {
-      "category": "People",
-      "label": "Celebrities",
-      "total": 3
-    },
+    
     {
       "category": "People",
       "label": "Girls",
@@ -596,22 +612,23 @@
 
 
 
-
-    {
-      "category": "Vehicles",
-      "label": "Bike",
-      "total": 2
-    },
     {
       "category": "Vehicles",
       "label": "Car",
       "total": 2
     },
+
     {
       "category": "Vehicles",
-      "label": "Helicopter",
+      "label": "Truck",
       "total": 2
     },
+    {
+      "category": "Vehicles",
+      "label": "Bike",
+      "total": 2
+    },
+   
     {
       "category": "Vehicles",
       "label": "Plane",
@@ -624,10 +641,9 @@
     },
     {
       "category": "Vehicles",
-      "label": "Truck",
+      "label": "Helicopter",
       "total": 2
     }
-
 
 
 
